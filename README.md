@@ -7,5 +7,6 @@
 </div>
 
 ## 🌊 About me
-- 🌱 
-- 🔭 
+- Learning Python and C# 
+- Aspiring Cloud Architect
+  
